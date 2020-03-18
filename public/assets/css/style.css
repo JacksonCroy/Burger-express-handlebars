@@ -1,0 +1,45 @@
+.jumbotron {
+    background-color: rgb(245, 220, 241);
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+.color {
+    color: rgb(0, 0, 0);
+}
+
+#burgers {
+    background-color: #5cb85c;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatbutton,
+#deletebutton {
+    float: right;
+}
+
+#devouredburger {
+    background-color: #d30606;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#addburger {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
